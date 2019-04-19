@@ -1,0 +1,22 @@
+{
+  "name": "rideserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "halson": "^3.0.0",
+    "restify": "^8.2.0",
+    "restify-errors": "^7.0.0",
+    "swagger-node-restify": "^0.1.2"
+  },
+  "devDependencies": {}
+}
